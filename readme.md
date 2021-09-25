@@ -14,4 +14,4 @@ Negative version of Python 3.7.8. Nope!
  - `[3.7.8]` Basic features
 
 ## License
- - PSF-2.0
+ - [PSF-2.0](license.txt)
