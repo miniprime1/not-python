@@ -1,4 +1,4 @@
-# Not Python 3.7.8
+# The Not Python Programming Language 3.7.8
 Negative version of Python 3.7.8. Nope!
 
 ## Commands
@@ -12,6 +12,9 @@ Negative version of Python 3.7.8. Nope!
 
 ## Version Release
  - `[3.7.8]` Basic features
+
+## Book
+ - `[The Not Python Programming Language]` https://app.gitbook.com/s/wTej5xMWaLVIzkZmpg9G/
 
 ## License
  - [PSF-2.0](license.txt)
